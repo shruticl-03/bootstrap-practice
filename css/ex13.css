@@ -1,0 +1,54 @@
+.cbox{
+    border: 5px solid;
+}
+.row1{
+    border: 10px solid black;
+}
+.xxl1{
+    height: 50px;
+    background-color: blue;
+}
+.xxl2{
+    height: 50px;
+    background-color: coral;
+}
+.xxl3{
+    height: 50px;
+    background-color: aqua;
+}
+.xxl4{
+    height: 50px;
+    background-color: chartreuse;
+}
+.xxl5{
+    height: 50px;
+    background-color: darkmagenta;
+}
+.xxl6{
+    height: 50px;
+    background-color: deeppink;
+}
+.xxl7{
+    height: 50px;
+    background-color: firebrick;
+}
+.xxl8{
+    height: 50px;
+    background-color: gold;
+}
+.xxl9{
+    height: 50px;
+    background-color: lime;
+}
+.xxl10{
+    height: 50px;
+    background-color: saddlebrown;
+}
+.xxl11{
+    height: 50px;
+    background-color: red;
+}
+.xxl12{
+    height: 50px;
+    background-color: salmon;
+}
